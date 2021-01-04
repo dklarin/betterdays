@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/betterdays/static/css/main.84ab6231.chunk.css",
-    "main.js": "/betterdays/static/js/main.24652eeb.chunk.js",
-    "main.js.map": "/betterdays/static/js/main.24652eeb.chunk.js.map",
+    "main.js": "/betterdays/static/js/main.c42a9eb4.chunk.js",
+    "main.js.map": "/betterdays/static/js/main.c42a9eb4.chunk.js.map",
     "runtime-main.js": "/betterdays/static/js/runtime-main.bce8cb3c.js",
     "runtime-main.js.map": "/betterdays/static/js/runtime-main.bce8cb3c.js.map",
     "static/css/2.e233df18.chunk.css": "/betterdays/static/css/2.e233df18.chunk.css",
     "static/js/2.3458f0ab.chunk.js": "/betterdays/static/js/2.3458f0ab.chunk.js",
     "static/js/2.3458f0ab.chunk.js.map": "/betterdays/static/js/2.3458f0ab.chunk.js.map",
     "index.html": "/betterdays/index.html",
-    "precache-manifest.113b4d6bfb62fafedaf78a50db986ef4.js": "/betterdays/precache-manifest.113b4d6bfb62fafedaf78a50db986ef4.js",
+    "precache-manifest.9762f78e076f1ac896f83f896a580a81.js": "/betterdays/precache-manifest.9762f78e076f1ac896f83f896a580a81.js",
     "service-worker.js": "/betterdays/service-worker.js",
     "static/css/2.e233df18.chunk.css.map": "/betterdays/static/css/2.e233df18.chunk.css.map",
     "static/css/main.84ab6231.chunk.css.map": "/betterdays/static/css/main.84ab6231.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.e233df18.chunk.css",
     "static/js/2.3458f0ab.chunk.js",
     "static/css/main.84ab6231.chunk.css",
-    "static/js/main.24652eeb.chunk.js"
+    "static/js/main.c42a9eb4.chunk.js"
   ]
 }
