@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "626a04aaef91c750549c9e20745ca228",
+    "revision": "76aa449a64d2ea4b5157d612512dbcab",
     "url": "/betterdays/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/betterdays/static/css/2.e233df18.chunk.css"
   },
   {
-    "revision": "3178bcb193885b857228",
+    "revision": "877a7c5bbf0a4a3ccd9a",
     "url": "/betterdays/static/css/main.84ab6231.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/betterdays/static/js/2.3458f0ab.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3178bcb193885b857228",
-    "url": "/betterdays/static/js/main.d5b7f5b7.chunk.js"
+    "revision": "877a7c5bbf0a4a3ccd9a",
+    "url": "/betterdays/static/js/main.04284b50.chunk.js"
   },
   {
     "revision": "b3982794960a7fdbd786",
